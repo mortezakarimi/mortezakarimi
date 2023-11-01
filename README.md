@@ -10,17 +10,17 @@ By the way reputation for hard-working, creativity, problem solving and team wor
 -------------------------------------
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mortezakarimi&column=3&theme=darkhub&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mortezakarimi&column=5&theme=darkhub&margin-w=15&margin-h=15"/>
 </div>
 
 -------------------------------------
 
-<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mortezakarimi&theme=dracula"/></div>
+<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mortezakarimi&theme=github_dark"/></div>
 
 -------------------------------------
 <div align="center">
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=mortezakarimi&count_private=true&include_all_commits=true&theme=dracula&show_icons=true&custom_title=Stats" />
-  <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortezakarimi&layout=compact&count_private=true&include_all_commits=true&theme=dracula&show_icons=true" />
+  <img height="250" align="left" src="https://github-readme-stats-eight-weld-55.vercel.app/api?username=mortezakarimi&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true&custom_title=Stats&show=reviews,prs_merged,prs_merged_percentage)" />
+  <img height="250" align="right" src="https://github-readme-stats-eight-weld-55.vercel.app/api/top-langs/?username=mortezakarimi&layout=compact&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true&size_weight=0.5&count_weight=0.5&langs_count=6" />
 </div>
 <!--
 **mortezakarimi/mortezakarimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
