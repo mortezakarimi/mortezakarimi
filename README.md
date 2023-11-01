@@ -19,8 +19,13 @@ By the way reputation for hard-working, creativity, problem solving and team wor
 
 -------------------------------------
 <div align="center">
-  <img height="250" align="left" src="https://github-readme-stats-eight-weld-55.vercel.app/api?username=mortezakarimi&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true&custom_title=Stats&show=reviews,prs_merged,prs_merged_percentage)" />
-  <img height="250" align="right" src="https://github-readme-stats-eight-weld-55.vercel.app/api/top-langs/?username=mortezakarimi&layout=compact&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true&size_weight=0.5&count_weight=0.5&langs_count=6" />
+  <img src="https://github-readme-stats-eight-weld-55.vercel.app/api?username=mortezakarimi&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true&custom_title=Stats&show=reviews,prs_merged,prs_merged_percentage)" />
+</div>
+
+-------------------------------------
+
+  <div align="center">
+    <img src="https://github-readme-stats-eight-weld-55.vercel.app/api/top-langs/?username=mortezakarimi&layout=compact&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true&size_weight=0.5&count_weight=0.5&langs_count=6" />
 </div>
 <!--
 **mortezakarimi/mortezakarimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
