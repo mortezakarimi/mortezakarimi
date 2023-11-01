@@ -10,7 +10,7 @@ By the way reputation for hard-working, creativity, problem solving and team wor
 -------------------------------------
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mortezakarimi&theme=dracula&column=7&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mortezakarimi&column=-1&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
 </div>
 
 -------------------------------------
