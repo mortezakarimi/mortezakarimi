@@ -29,15 +29,15 @@ Iâ€™m always on the lookout for exciting projects and innovative ideas. If youâ€
 <table>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.morteza-karimi.ir/?username=mortezakarimi&column=11&theme=darkhub&margin-w=15&margin-h=15"/>
+      <img src="./github-profile-trophy/github-profile-trophy.svg" alt="github-profile-trophy"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img style="flex: 50%;" src="https://raw.githubusercontent.com/mortezakarimi/mortezakarimi/master/profile-summary-card-output/github_dark/0-profile-details.svg"/>
+      <img style="flex: 50%;" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile-summary-card-output"/>
     </td>
     <td>
-      <img style="flex: 50%;" src="https://readme-states.morteza-karimi.ir/api?username=mortezakarimi&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true&custom_title=Stats&show=reviews,prs_merged,prs_merged_percentage"/>
+      <img style="flex: 50%;" src="./readme-states/readme-states.svg" alt="readme-states"/>
     </td>
   </tr>
 </table>
