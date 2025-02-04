@@ -1,1 +1,277 @@
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;max-width:60rem;padding-left:1.5rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{font-size:1.5rem;font-weight:500;line-height:2.25rem}@media (width <= 720px){.h2{font-size:1.25rem;line-height:1.5rem}}#challenge-error-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+);background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme:dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="390"></head><body class="no-js"><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt={cvId: '3',cZone: "readme-states.morteza-karimi.ir",cType: 'managed',cRay: '90c8bc5abd660840',cH: 'BjVMdNSmbEjB1O_OM5uskyVdbQMvFcGHQXSjD_ck.AU-1738651923-1.2.1.1-4qLp22m79Vu01bTgNHqQv9Nnw6nv5X32U7_oILJHSo8zUAYntGshmWZjYxMaEW19',cUPMDTk: "\/api?username=mortezakarimi&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true&custom_title=Stats&show=reviews,prs_merged,prs_merged_percentage&__cf_chl_tk=YddpkmC5dUbWLwGDcDVuTmRkVnscNR5syZGpCKPjFFg-1738651923-1.0.1.1-iqzkk6ESjdKp8aRHN0NRUrUBNlQJ_ZwdR.JbqohNfr0",cFPWv: 'b',cITimeS: '1738651923',cTTimeMs: '1000',cMTimeMs: '390000',cTplC: 0,cTplV: 5,cTplB: 'cf',cK: "",fa: "\/api?username=mortezakarimi&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true&custom_title=Stats&show=reviews,prs_merged,prs_merged_percentage&__cf_chl_f_tk=YddpkmC5dUbWLwGDcDVuTmRkVnscNR5syZGpCKPjFFg-1738651923-1.0.1.1-iqzkk6ESjdKp8aRHN0NRUrUBNlQJ_ZwdR.JbqohNfr0",md: "IkXu_jfTXWcqd08SYeUdZIqo54lYKy4D3UmDMWksXSI-1738651923-1.2.1.1-XpmMgUZnljMHurSjPcxNYQvvr1_IHxlIVAcgg1fxkMJQE4nIgMHD6LhPtGL2owKzH7dI4UtAjAmK7FE9g7ew6fm1RA4IHfs.gPiOTkNNOCcDJI_ocRXo6hdXw1BYjE7vmx7dzWriYLOrtGTT1D2SghSp3y3sk.fN3Kq.wB1qdOXnePaJplslDAueFrlvMLbD95r7koBv4F23cJLOdXbWBao5PeAbCWxX8v3Lc6ImgTQpN5vja4qyzcyNnsDR4ZdU2_huUZEAIJ1XeaiRfe9Mg_iUHvt_6stW67fOO2gEC7ShD6nzoUoY0U40_AzbGoK4WXt.ooNssjANZlxwoQPwW0pcDWRNKrvKWUTBWyp_BFMaXaB5iFDXfO_slIonIIi255INSlnhM9ySvRdqeopHDxjA1L83IsBG44dMaSYLM7b94_WFyrcWxEQpSzDOy72nKzHNPmYcjZ4ZdTHoQxwHveAxl6HIXaGvCsAWibq_QQM4TeubRXsKnHodryhz0aAihzNDzzCN1uT7BMgm9FrBMyNqrI.1aYGhMEykHtsHfJp5RZr9kxirC8IMIcrGzbZuAt_QR2yFLYQi30LXfLrTgaAp4bBx71Mb3vrK_Lhbagw84pmEjqekuN12kpcyY0KmRFzGWpYqyQ2jzMfN8RGxWpKmnhcvdls7gvjc4NOLc7OS5rtazmWPHSZY_pnJyop.z5UsH0oGcvRZumAdXpZD8oYDPRfMXb4kqX3hAJ79mz9Yt_S9i6iGYtvpVn2s.N.TzgWmD_hE54rehH3oU6t31zbus5qYg5qPjECaAMDmn7N96anua.s5MiaQ0jprv1.ON0kOkjRsLUfKugM_GQU5A3uvyDP0W_BUecEQs4oT7r7HTVg4p41Xhrwcb68QyG03vAEe1M4u3B9mGIhaCFgMrp5Wyn77RaVn9eQmRJaNvkz7YZW5uexbq8AHdFFAn8gQbfvsRG1OjZewW_iEBldILULe3.mhsXjs_59RpW7Y6Un92kX8DJSDI8ricjsP16QJqXRzcTF8aKvHTNaNnEVcpW1DITekCR.tqjN9bjQIOekwD64auQqFNP9S4mMZrzvmMG6xr_wEb_8Sa9zIldY_.BJ_fpsUC8qMLkfNcwMV9BEI0_RCRGsmCY39JkTN8g0UKvJGvd4Jxq.d2p.6rmLVsF8Wksyo2LODUK7iP4E42Oknt0F0rmFnv.J5kjC_s90FUBXJ5tJWcz.hA2mzxwos0tpJfnz_JqwCiDOthahlsGGM9dzC89fZP4PFZflIjmKHlAFdKPrGhLK.HeOsAt8NF8uvrsJ3.zqY65zOcn.QT_Voc1u7SY0eDJhq6V16rp1yfNzh9FXOv.dJVfj6j1A7hwogA18tc1k7AQ74bvZVj88Ih1KCdj5ntO0IlCD.p4TteEzCv24s5Z9qx4X82EDZboPFRdmqe5P2_pJsN3DxLA.aBUkpf7Ociolv8Tm63Ly3pgPO0x7dhVhaf9mfzFbKyDR.Com4DKgNG7m748UFswb2M4pHOAB1K6G_JcQT7.A6b0d6XdSeDFz8R3xa5XI8sS3_9f583unnajZbz4WGdYjzDuh0lpPpMkhappil3psFGGcSHlz3_7g5UfDhv23IrB7iWD9nSxGWzoXTyNArXGoGCgv90.z5lzCbfmOOeIthHYouY_k4CNq6UZoSdsXmBEbSzNSTcslIKSSFIbFiMgsYcOrP3NFTlA.cX.lH9h5DVDrURsr3lDiF2cAkw9FFMUxmkJ4JxRjRxaAtRwutZAH8jcpyN1I2mZthwD.MjmI9ACQrIYrBDv9HQsYlxm0De.ISirIKc7U3Np1NbAkOeyXJjoigwk6zOwus_MWp5TMVSk0mc1iaPcl0aI6UaKXtm_6_d1sHuYxsEAnOkV7k4nTjeiKGx_U1Vl1y9yyU2JmUf0dKU3oJkyIkIp74G3yBiENcaV_sxqqz9j1h9UjBVCZ09bDrBXYDSfgls91TsaSjxpidpbJ6vODN9XcL1U.Pml077lPR3UwcVXsjRXeXEiLXatIR1OG4uJNwdw2frkyf2mDcf6xWVBlWqlrV_DKCl1HqNycMXPwO33hvJ4CJMxztpdeN3EGQZC3nmUpooi3o69nu9ieNTXpku74rdSBkP4p64upRbWsl_wvb7_yLoylyTDVt.iW9QTpzqXGhmeC8mbU8wgbMY9lUDPDYuAEcEsjLgvzaqzp9lyxNugZET91R6.KqUhVxEO6GLWtQ9DQDgcN6z9.ey850zDpd1FrANrncw5IbfqIXWyNyxqj6iddgSHuzXXh8eObtLvEiw5l8lcLCfQl4fdZI9swBzy_5VsePG._mGiCVE..2ixuk7EkPvQIwxPx5HKHyvq_Jb3cR8vEt13DpoFkvt3VTZP60WwxISTAfAG2CPrTMfquF7gCuybacWehuzofVY9w9BbFD9zG3PbP.WbMxSsDevJ.cJpWBW5FnAqZYmTk16EgxvzCT5iuvGA_Gs_LJcYbT033IqS76XMDZm7dSbehuWMpi6kdi0NhPDqzh8CUMEbXpnzBGC3Ev4_wcOauoHoWrj_SHv2fceMIfNgJ26c5fi5oAY0RioyN3maPWtSggl.P5gsOUXiMndjCPjvI5MivRlm_0pq8a3QTpExT4co4qZodlcw",mdrd: "MFZrx02SkhNqep7NCj0VD6l5r_JS2lwtM9ZLjwcC334-1738651923-1.2.1.1-pc4S7jp.sZcbF5HQCeygxJLpuaVEdw1HZhlRTFLc0_SNymABDOFQ4sqdoLCCNDHaekvs7HLBh5aGgHHgmjtjk.kxaILfMFJMO9e2Lzq2WHv4DBCVwft6eolWEFpz.4uREQKhd3tH5ruVnjpyPmF8kEQzGsJilLWNskJCU7tuJLpJiNuJLoxHognn_SCOMt1NDueKlFcKM1nhWn3y.DJ3PI3DubfxNOYdS8Hl5VQE8.miQzN30nQFOnMDBruVRv1.FZ9.zKFGu09Glc.rVYHtKn7ZJX1pwltI1rRPNFswvE4_txKp.znzCQbzEFWn4aW1eEjNiaTqtRVVh3KAUmo9kN3r16tulGqQ2vWDfxeCQah7ZSlQZxJ7xksOS.yKkzmF_acb94iIBHLAEBcwGoREDjNJgIPZzA1t0Ct4iNEJmG4MMYi4M57U8W8sDrVcRvxMEdtEbJykxV_24QCo4LQGQJNLtrwQbTZem7qOiCm4qTTT3ACHQkelRm_3dJnag2q_8GAMXlfEQYjAOs2TTc._RFXlN1Fod8fzkI1OUKYD8o23NymXp6WvqlGEL4ETz7bY1PUpOWxpgFyBgi8etqFHASklop_imoLvTw6lKx_PKyWeCIZptrbxe32prFpAWsiA0hjAuC.b3YTQlrB.6ssAkJ2spbb2So0DxpBZEA0U2JOlI.8Gixk4UbTh60KEtC7G63TIu0yjDSMux9hwOwbv7ZzJlU72xfeGt58tAH9f5wwI20fOroj7ICJu_SpRJTornnmUE02kojiO2e9QXTKwkA11gYrKIBNZkV6R_CMSuKxSxCdeuEdOgwLz.OHly0rYYpqKpBrXUNgnjDjad7kMkaydX5KGsIEW1rSa0L5pk3LhKl.DmMC2.uwobw.O75zCXYoY53m7zSNaZxEFSR9ecwALr00PIc16_4CN8.X2MXr8DxzTE7D1PxtSgg3AujAckayzpXDY4NESnwBzfZeJ7UB71CatnMc8ULkO1ahly3SebEfUP7EzMxmfpqq5oDZyX3UKd7llGQ8ii6kln4961kcM0PXwf4AGlEJg3qt8RKmdXu8z3Va2kWEE8uWta2atfTcRN6kcZoUYRFhZ.ElYZu_0RdSFijjiv8pjuYdXlvieQv.TwUVgkD1vTuDaizFV3ilJg6_pmHPSUE5.K7BJ3Tqvt4iXWTDQ.YL4jtjH3Zm2HI3e59KFOv9t5MlG1zgSKugX97BJ.4PRvIN5MWH3_3kOn8omBr0huInN82NuO.a8X06qSw1U1LLVo0_wRA_iat5xv.nFW.HJL2x_7BxWkkF51RzFqNko5VpEc2_A8KuyUumj3F9gXxosio8c1nmLjnWTfGmenPlYJ0Q4.55Xyw0px9FBUh1RzSNzqcyQYjGRPTo.NtBR388iBG0aXfWYDeroIQqtkF25XYFujdto0_AdyCCPENZc89KisBLRdczqXUHC38bhkAhSMFbZkDdqBDw6.3ItR03LlNS5ufVT8Noiw9Uhix88zpQ2nNXst.v.uwXO1B4zTL.IJT64vor5JAtbseKrj.S9OhjcIVRgM9dt.JxyI28MMR9i2Fu4WINK0zDYoZjczS5czIY_BoYi4aUBfIePakl.NZvfE69gdZuv8uOmfmAOSeTEIlMPIUvYxjLVkKdOIyZVXyOSFSXWNCnSp2UVoXgAgDCmGStMI_dQXii4ly.xvdqtoFWkIvHcraO9eWYw72AcLb5eXZndAVe_tzlu6Y7JMs3PehEQyCkgoAAenVukw_EJbrUm3webhRDTkfwDD.aZ9IBO6MU3fuf0yxW01RlGlvy8O1HIqPB_Bvm3oURIrw_tf7sckNcWV0N9NATQV5l0rrb8Uq6pkHZqNBSetg81tIbdGr6613RgRuRnFRkycRNMRortn9pCiEH7qsqpxrDlX_Q0Vd95kD.lzfHJ3m.yFK7LPakC5pbltx1Hdd8VxlCM3nxRO87UJ7gQqKhSVZnT4ieGTcd01ShIxsIJQqvMozcZSydPUElCuUyTtOL6l5VHSvmfPYsXFhRYg9ipED0rGU3et1w9kVm8Jms3ixVvlnTn97MMfuQ5S1dZnMp4Da5.Zra.OvUkz01c8.LVMpRy1mHZDPjov3cTn0Mm8Z4VIrWA3q0_ZqSHqVN63XPx5n0NYk.2xn3kFkQ.soqlQKGIXZLsrEGMyoFYLYeFtNMeBjCL933DV9ugsj74pHyddpqbwn9lP6JKFFd5LAA80c5gl7BJpogGGt_lrMmtEtLmmxbdKcXrhRf7oHt7Rp.jqs5B1pcpFM4gA5VFn0hCHyP152AQEpHPoitKozj.ocy_qgwIJfXWIA"};var cpo = document.createElement('script');cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=90c8bc5abd660840';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null, "\/api?username=mortezakarimi&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true&custom_title=Stats&show=reviews,prs_merged,prs_merged_percentage&__cf_chl_rt_tk=YddpkmC5dUbWLwGDcDVuTmRkVnscNR5syZGpCKPjFFg-1738651923-1.0.1.1-iqzkk6ESjdKp8aRHN0NRUrUBNlQJ_ZwdR.JbqohNfr0" + window._cf_chl_opt.cOgUHash);cpo.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(cpo);}());</script></body></html>
+
+      <svg
+        width="467"
+        height="270"
+        viewBox="0 0 467 270"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        role="img"
+        aria-labelledby="descId"
+      >
+        <title id="titleId">Stats, Rank: A+</title>
+        <desc id="descId">Total Stars Earned: 344, Total Commits  : 5973, Total PRs: 348, Total PRs Merged: 329, Merged PRs Percentage: 94.54, Total PRs Reviewed: 473, Total Issues: 112, Contributed to (last year): 16</desc>
+        <style>
+          .header {
+            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+            fill: #58A6FF;
+            animation: fadeInAnimation 0.8s ease-in-out forwards;
+          }
+          @supports(-moz-appearance: auto) {
+            /* Selector detects Firefox */
+            .header { font-size: 15.5px; }
+          }
+          
+    .stat {
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #C3D1D9;
+    }
+    @supports(-moz-appearance: auto) {
+      /* Selector detects Firefox */
+      .stat { font-size:12px; }
+    }
+    .stagger {
+      opacity: 0;
+      animation: fadeInAnimation 0.3s ease-in-out forwards;
+    }
+    .rank-text {
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C3D1D9;
+      animation: scaleInAnimation 0.3s ease-in-out forwards;
+    }
+    .rank-percentile-header {
+      font-size: 14px;
+    }
+    .rank-percentile-text {
+      font-size: 16px;
+    }
+    
+    .not_bold { font-weight: 400 }
+    .bold { font-weight: 700 }
+    .icon {
+      fill: #1F6FEB;
+      display: block;
+    }
+
+    .rank-circle-rim {
+      stroke: #58A6FF;
+      fill: none;
+      stroke-width: 6;
+      opacity: 0.2;
+    }
+    .rank-circle {
+      stroke: #58A6FF;
+      stroke-dasharray: 250;
+      fill: none;
+      stroke-width: 6;
+      stroke-linecap: round;
+      opacity: 0.8;
+      transform-origin: -10px 8px;
+      transform: rotate(-90deg);
+      animation: rankAnimation 1s forwards ease-in-out;
+    }
+    
+    @keyframes rankAnimation {
+      from {
+        stroke-dashoffset: 251.32741228718345;
+      }
+      to {
+        stroke-dashoffset: 14.316238818401462;
+      }
+    }
+  
+  
+
+          
+      /* Animations */
+      @keyframes scaleInAnimation {
+        from {
+          transform: translate(-5px, 5px) scale(0);
+        }
+        to {
+          transform: translate(-5px, 5px) scale(1);
+        }
+      }
+      @keyframes fadeInAnimation {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+    
+          
+        </style>
+
+        
+
+        <rect
+          data-testid="card-bg"
+          x="0.5"
+          y="0.5"
+          rx="4.5"
+          height="99%"
+          stroke="#e4e2e2"
+          width="466"
+          fill="#0D1117"
+          stroke-opacity="1"
+        />
+
+        
+      <g
+        data-testid="card-title"
+        transform="translate(25, 35)"
+      >
+        <g transform="translate(0, 0)">
+      <text
+        x="0"
+        y="0"
+        class="header"
+        data-testid="header"
+      >Stats</text>
+    </g>
+      </g>
+    
+
+        <g
+          data-testid="main-card-body"
+          transform="translate(0, 55)"
+        >
+          
+    <g data-testid="rank-circle"
+          transform="translate(390.5, 85)">
+        <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
+        <circle class="rank-circle" cx="-10" cy="8" r="40" />
+        <g class="rank-text">
+          
+        <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
+          A+
+        </text>
+      
+        </g>
+      </g>
+    <svg x="0" y="0">
+      <g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
+      
+    <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+      <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+    </svg>
+  
+      <text class="stat  bold" x="25" y="12.5">Total Stars Earned:</text>
+      <text
+        class="stat  bold"
+        x="219.01"
+        y="12.5"
+        data-testid="stars"
+      >344</text>
+    </g>
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
+      
+    <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+      <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
+    </svg>
+  
+      <text class="stat  bold" x="25" y="12.5">Total Commits:</text>
+      <text
+        class="stat  bold"
+        x="219.01"
+        y="12.5"
+        data-testid="commits"
+      >6k</text>
+    </g>
+  </g><g transform="translate(0, 50)">
+    <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
+      
+    <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+      <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+    </svg>
+  
+      <text class="stat  bold" x="25" y="12.5">Total PRs:</text>
+      <text
+        class="stat  bold"
+        x="219.01"
+        y="12.5"
+        data-testid="prs"
+      >348</text>
+    </g>
+  </g><g transform="translate(0, 75)">
+    <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
+      
+    <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+      <path fill-rule="evenodd" d="M5.45 5.154A4.25 4.25 0 0 0 9.25 7.5h1.378a2.251 2.251 0 1 1 0 1.5H9.25A5.734 5.734 0 0 1 5 7.123v3.505a2.25 2.25 0 1 1-1.5 0V5.372a2.25 2.25 0 1 1 1.95-.218ZM4.25 13.5a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm8.5-4.5a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5ZM5 3.25a.75.75 0 1 0 0 .005V3.25Z" />
+    </svg>
+  
+      <text class="stat  bold" x="25" y="12.5">Total PRs Merged:</text>
+      <text
+        class="stat  bold"
+        x="219.01"
+        y="12.5"
+        data-testid="prs_merged"
+      >329</text>
+    </g>
+  </g><g transform="translate(0, 100)">
+    <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
+      
+    <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+      <path fill-rule="evenodd" d="M13.442 2.558a.625.625 0 0 1 0 .884l-10 10a.625.625 0 1 1-.884-.884l10-10a.625.625 0 0 1 .884 0zM4.5 6a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm0 1a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5zm7 6a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm0 1a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z" />
+    </svg>
+  
+      <text class="stat  bold" x="25" y="12.5">Merged PRs Percentage:</text>
+      <text
+        class="stat  bold"
+        x="219.01"
+        y="12.5"
+        data-testid="prs_merged_percentage"
+      >94.54 %</text>
+    </g>
+  </g><g transform="translate(0, 125)">
+    <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
+      
+    <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+      <path fill-rule="evenodd" d="M8 2c1.981 0 3.671.992 4.933 2.078 1.27 1.091 2.187 2.345 2.637 3.023a1.62 1.62 0 0 1 0 1.798c-.45.678-1.367 1.932-2.637 3.023C11.67 13.008 9.981 14 8 14c-1.981 0-3.671-.992-4.933-2.078C1.797 10.83.88 9.576.43 8.898a1.62 1.62 0 0 1 0-1.798c.45-.677 1.367-1.931 2.637-3.022C4.33 2.992 6.019 2 8 2ZM1.679 7.932a.12.12 0 0 0 0 .136c.411.622 1.241 1.75 2.366 2.717C5.176 11.758 6.527 12.5 8 12.5c1.473 0 2.825-.742 3.955-1.715 1.124-.967 1.954-2.096 2.366-2.717a.12.12 0 0 0 0-.136c-.412-.621-1.242-1.75-2.366-2.717C10.824 4.242 9.473 3.5 8 3.5c-1.473 0-2.825.742-3.955 1.715-1.124.967-1.954 2.096-2.366 2.717ZM8 10a2 2 0 1 1-.001-3.999A2 2 0 0 1 8 10Z"/>
+    </svg>
+  
+      <text class="stat  bold" x="25" y="12.5">Total PRs Reviewed:</text>
+      <text
+        class="stat  bold"
+        x="219.01"
+        y="12.5"
+        data-testid="reviews"
+      >473</text>
+    </g>
+  </g><g transform="translate(0, 150)">
+    <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
+      
+    <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+      <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
+    </svg>
+  
+      <text class="stat  bold" x="25" y="12.5">Total Issues:</text>
+      <text
+        class="stat  bold"
+        x="219.01"
+        y="12.5"
+        data-testid="issues"
+      >112</text>
+    </g>
+  </g><g transform="translate(0, 175)">
+    <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
+      
+    <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+      <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+    </svg>
+  
+      <text class="stat  bold" x="25" y="12.5">Contributed to (last year):</text>
+      <text
+        class="stat  bold"
+        x="219.01"
+        y="12.5"
+        data-testid="contribs"
+      >16</text>
+    </g>
+  </g>
+    </svg>
+  
+        </g>
+      </svg>
+    
