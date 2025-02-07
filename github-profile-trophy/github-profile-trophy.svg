@@ -52,7 +52,7 @@
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#c9d1d9">MultiLanguage</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#8b949e">Rainbow Lang User</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#8b949e">24pt</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#8b949e">23pt</text>
           
     <style>
     @keyframes MultiLanguageRankAnimation {
@@ -331,7 +331,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#c9d1d9">Repositories</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#8b949e">God Repo Creator</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#8b949e">172pt</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#8b949e">173pt</text>
           
     <style>
     @keyframes RepositoriesRankAnimation {
@@ -450,7 +450,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#c9d1d9">Reviews</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#8b949e">God Reviewer</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#8b949e">476pt</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#8b949e">484pt</text>
           
     <style>
     @keyframes ReviewsRankAnimation {
@@ -568,7 +568,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 19.68px;
+        width: 20.28px;
       }
     }
     #Commits-rank-progress{
@@ -762,7 +762,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#c9d1d9">PullRequest</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#8b949e">Super Puller</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#8b949e">348pt</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#8b949e">345pt</text>
           
     <style>
     @keyframes PullRequestRankAnimation {
@@ -770,7 +770,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 39.46666666666667px;
+        width: 38.666666666666664px;
       }
     }
     #PullRequest-rank-progress{
