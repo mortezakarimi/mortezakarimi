@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 349, Total Commits  : 6174, Total PRs: 379, Total PRs Merged: 359, Merged PRs Percentage: 94.72, Total PRs Reviewed: 528, Total Issues: 131, Contributed to (last year): 16</desc>
+        <desc id="descId">Total Stars Earned: 350, Total Commits  : 6176, Total PRs: 379, Total PRs Merged: 359, Merged PRs Percentage: 94.72, Total PRs Reviewed: 529, Total Issues: 131, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 13.500923266295796;
+        stroke-dashoffset: 13.473874032307807;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >349</text>
+      >350</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -237,7 +237,7 @@
         x="219.01"
         y="12.5"
         data-testid="reviews"
-      >528</text>
+      >529</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
