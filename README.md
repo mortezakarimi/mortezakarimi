@@ -23,7 +23,7 @@ I'm a **full-stack developer**, **team leader**, and **DevOps engineer** with a 
 ### 📚 Let’s Build the Future, Together!
 I’m always on the lookout for exciting projects and innovative ideas. If you’re looking for a developer with a knack for architecture and clean, efficient code, let’s connect and bring your ideas to life.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mortezakarimi/)](https://www.linkedin.com/in/mortezakarimi/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mortezakarimi/)](https://www.linkedin.com/in/morteza-karimi-com/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/3307768/mortie)](https://stackoverflow.com/users/3307768/mortie)
 
 <table>
